@@ -1,0 +1,37 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width='100%'
+  height="240px"
+  style="font:inherit">
+  <style>text {font: 400 14px sans-serif}</style>
+  <rect x='0' y="0" width="100%" height="48" fill="rgb(213, 165, 188)"></rect>
+  <text
+    x="16"
+    y="24"
+    dominant-baseline="middle"
+  >Careys Pink: rgb(213, 165, 188)</text>
+    <rect x='0' y="48" width="100%" height="48" fill="rgb(232, 196, 209)"></rect>
+  <text
+    x="16"
+    y="72"
+    dominant-baseline="middle"
+  >Melanie: rgb(232, 196, 209)</text>
+    <rect x='0' y="96" width="100%" height="48" fill="rgb(245, 234, 224)"></rect>
+  <text
+    x="16"
+    y="120"
+    dominant-baseline="middle"
+  >White Linen: rgb(245, 234, 224)</text>
+    <rect x='0' y="144" width="100%" height="48" fill="rgb(200, 208, 218)"></rect>
+  <text
+    x="16"
+    y="168"
+    dominant-baseline="middle"
+  >Ghost: rgb(200, 208, 218)</text>
+    <rect x='0' y="192" width="100%" height="48" fill="rgb(164, 183, 204)"></rect>
+  <text
+    x="16"
+    y="216"
+    dominant-baseline="middle"
+  >Casper: rgb(164, 183, 204)</text>
+</svg>
