@@ -9,71 +9,71 @@
     x="16"
     y="24"
     dominant-baseline="middle"
-  >Nord 0: rgb(46, 52, 64)</text>
+  >Nord Night 0: rgb(46, 52, 64)</text>
     <rect x='0' y="48" width="100%" height="48" fill="rgb(59, 66, 82)"></rect>
   <text
     x="16"
     y="72"
     dominant-baseline="middle"
-  >Nord 1: rgb(59, 66, 82)</text>
+  >Nord Night 1: rgb(59, 66, 82)</text>
     <rect x='0' y="96" width="100%" height="48" fill="rgb(67, 76, 94)"></rect>
   <text
     x="16"
     y="120"
     dominant-baseline="middle"
-  >Nord 2: rgb(67, 76, 94)</text>
+  >Nord Night 2: rgb(67, 76, 94)</text>
     <rect x='0' y="144" width="100%" height="48" fill="rgb(76, 86, 106)"></rect>
   <text
     x="16"
     y="168"
     dominant-baseline="middle"
-  >Nord 3: rgb(76, 86, 106)</text>
+  >Nord Night 3: rgb(76, 86, 106)</text>
     <rect x='0' y="192" width="100%" height="48" fill="rgb(216, 222, 233)"></rect>
   <text
     x="16"
     y="216"
     dominant-baseline="middle"
-  >Nord 4: rgb(216, 222, 233)</text>
+  >Nord Snow 0: rgb(216, 222, 233)</text>
     <rect x='0' y="240" width="100%" height="48" fill="rgb(229, 233, 240)"></rect>
   <text
     x="16"
     y="264"
     dominant-baseline="middle"
-  >Nord 5: rgb(229, 233, 240)</text>
+  >Nord Snow 1: rgb(229, 233, 240)</text>
     <rect x='0' y="288" width="100%" height="48" fill="rgb(236, 239, 244)"></rect>
   <text
     x="16"
     y="312"
     dominant-baseline="middle"
-  >Nord 6: rgb(236, 239, 244)</text>
+  >Nord Snow 2: rgb(236, 239, 244)</text>
     <rect x='0' y="336" width="100%" height="48" fill="rgb(175, 216, 215)"></rect>
   <text
     x="16"
     y="360"
     dominant-baseline="middle"
-  >Nord 7: rgb(175, 216, 215)</text>
+  >Nord Land 0: rgb(175, 216, 215)</text>
     <rect x='0' y="384" width="100%" height="48" fill="rgb(191, 228, 238)"></rect>
   <text
     x="16"
     y="408"
     dominant-baseline="middle"
-  >Nord 8: rgb(191, 228, 238)</text>
+  >Nord Sky 0: rgb(191, 228, 238)</text>
     <rect x='0' y="432" width="100%" height="48" fill="rgb(208, 135, 112)"></rect>
   <text
     x="16"
     y="456"
     dominant-baseline="middle"
-  >Nord 12: rgb(208, 135, 112)</text>
+  >Nord Sun 0: rgb(208, 135, 112)</text>
     <rect x='0' y="480" width="100%" height="48" fill="rgb(235, 203, 139)"></rect>
   <text
     x="16"
     y="504"
     dominant-baseline="middle"
-  >Nord 13: rgb(235, 203, 139)</text>
+  >Nord Sun 1: rgb(235, 203, 139)</text>
     <rect x='0' y="528" width="100%" height="48" fill="rgb(180, 142, 173)"></rect>
   <text
     x="16"
     y="552"
     dominant-baseline="middle"
-  >Nord 15: rgb(180, 142, 173)</text>
+  >Nord Sun 2: rgb(180, 142, 173)</text>
 </svg>
