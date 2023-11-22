@@ -1,7 +1,11 @@
 {
   "name": "@arklo/chroma",
   "version": "1.0.0",
-  "description": "",
+  "description": "A selection of subtle colour palettes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benjamin-white/chroma"
+  },
   "main": "dist/index.js",
   "files": [
     "/dist",
@@ -14,7 +18,11 @@
     "test": "vitest",
     "coverage": "vitest run --coverage"
   },
-  "author": "",
+  "author": "Benjamin White",
+  "keywords": [
+    "color",
+    "palette"
+  ],
   "license": "ISC",
   "devDependencies": {
     "@types/lodash": "^4.14.201",
