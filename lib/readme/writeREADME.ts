@@ -8,6 +8,13 @@ const writeREADME = async (
   colorEntries: [string, Record<string, string>][]
 ) => {
   let output = `# **_Chroma_**\n\n`;
+  output += `To use:\n`;
+  output += "```sh\n";
+  output += "npm i @arklo/chroma\n";
+  output += "```\n\n";
+  output += "```js\n";
+  output += 'import Chroma from "@arklo/chroma"\n';
+  output += "```\n\n";
 
   colorEntries.forEach(([name, values], index) => {
     output += `### **${startCase(name)}**\n`;

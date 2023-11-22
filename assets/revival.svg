@@ -1,0 +1,79 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width='100%'
+  height="576px"
+  style="font:inherit">
+  <style>text {font: 400 14px sans-serif}</style>
+  <rect x='0' y="0" width="100%" height="48" fill="rgb(237, 235, 237)"></rect>
+  <text
+    x="16"
+    y="24"
+    dominant-baseline="middle"
+  >Sahara 0: rgb(237, 235, 237)</text>
+    <rect x='0' y="48" width="100%" height="48" fill="rgb(251, 248, 246)"></rect>
+  <text
+    x="16"
+    y="72"
+    dominant-baseline="middle"
+  >Sahara 1: rgb(251, 248, 246)</text>
+    <rect x='0' y="96" width="100%" height="48" fill="rgb(255, 255, 255)"></rect>
+  <text
+    x="16"
+    y="120"
+    dominant-baseline="middle"
+  >Sahara 2: rgb(255, 255, 255)</text>
+    <rect x='0' y="144" width="100%" height="48" fill="rgb(253, 247, 254)"></rect>
+  <text
+    x="16"
+    y="168"
+    dominant-baseline="middle"
+  >Neptune 0: rgb(253, 247, 254)</text>
+    <rect x='0' y="192" width="100%" height="48" fill="rgb(228, 214, 225)"></rect>
+  <text
+    x="16"
+    y="216"
+    dominant-baseline="middle"
+  >Neptune 1: rgb(228, 214, 225)</text>
+    <rect x='0' y="240" width="100%" height="48" fill="rgb(205, 193, 217)"></rect>
+  <text
+    x="16"
+    y="264"
+    dominant-baseline="middle"
+  >Neptune 2: rgb(205, 193, 217)</text>
+    <rect x='0' y="288" width="100%" height="48" fill="rgb(113, 67, 160)"></rect>
+  <text
+    x="16"
+    y="312"
+    dominant-baseline="middle"
+  >Neptune 3: rgb(113, 67, 160)</text>
+    <rect x='0' y="336" width="100%" height="48" fill="rgb(237, 229, 217)"></rect>
+  <text
+    x="16"
+    y="360"
+    dominant-baseline="middle"
+  >Meadow 0: rgb(237, 229, 217)</text>
+    <rect x='0' y="384" width="100%" height="48" fill="rgb(201, 215, 207)"></rect>
+  <text
+    x="16"
+    y="408"
+    dominant-baseline="middle"
+  >Meadow 1: rgb(201, 215, 207)</text>
+    <rect x='0' y="432" width="100%" height="48" fill="rgb(150, 155, 160)"></rect>
+  <text
+    x="16"
+    y="456"
+    dominant-baseline="middle"
+  >Meadow 2: rgb(150, 155, 160)</text>
+    <rect x='0' y="480" width="100%" height="48" fill="rgb(187, 180, 186)"></rect>
+  <text
+    x="16"
+    y="504"
+    dominant-baseline="middle"
+  >Meadow 3: rgb(187, 180, 186)</text>
+    <rect x='0' y="528" width="100%" height="48" fill="rgb(214, 195, 209)"></rect>
+  <text
+    x="16"
+    y="552"
+    dominant-baseline="middle"
+  >Meadow 4: rgb(214, 195, 209)</text>
+</svg>

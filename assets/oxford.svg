@@ -1,0 +1,79 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width='100%'
+  height="576px"
+  style="font:inherit">
+  <style>text {font: 400 14px sans-serif}</style>
+  <rect x='0' y="0" width="100%" height="48" fill="rgb(248, 248, 247)"></rect>
+  <text
+    x="16"
+    y="24"
+    dominant-baseline="middle"
+  >Petal 0: rgb(248, 248, 247)</text>
+    <rect x='0' y="48" width="100%" height="48" fill="rgb(255, 255, 255)"></rect>
+  <text
+    x="16"
+    y="72"
+    dominant-baseline="middle"
+  >Petal 1: rgb(255, 255, 255)</text>
+    <rect x='0' y="96" width="100%" height="48" fill="rgb(254, 248, 248)"></rect>
+  <text
+    x="16"
+    y="120"
+    dominant-baseline="middle"
+  >Petal 2: rgb(254, 248, 248)</text>
+    <rect x='0' y="144" width="100%" height="48" fill="rgb(240, 228, 237)"></rect>
+  <text
+    x="16"
+    y="168"
+    dominant-baseline="middle"
+  >Petal 3: rgb(240, 228, 237)</text>
+    <rect x='0' y="192" width="100%" height="48" fill="rgb(232, 214, 220)"></rect>
+  <text
+    x="16"
+    y="216"
+    dominant-baseline="middle"
+  >Petal 4: rgb(232, 214, 220)</text>
+    <rect x='0' y="240" width="100%" height="48" fill="rgb(225, 193, 208)"></rect>
+  <text
+    x="16"
+    y="264"
+    dominant-baseline="middle"
+  >Petal 5: rgb(225, 193, 208)</text>
+    <rect x='0' y="288" width="100%" height="48" fill="rgb(150, 84, 66)"></rect>
+  <text
+    x="16"
+    y="312"
+    dominant-baseline="middle"
+  >Petal 6: rgb(150, 84, 66)</text>
+    <rect x='0' y="336" width="100%" height="48" fill="rgb(224, 229, 225)"></rect>
+  <text
+    x="16"
+    y="360"
+    dominant-baseline="middle"
+  >Flower 0: rgb(224, 229, 225)</text>
+    <rect x='0' y="384" width="100%" height="48" fill="rgb(201, 192, 219)"></rect>
+  <text
+    x="16"
+    y="408"
+    dominant-baseline="middle"
+  >Flower 1: rgb(201, 192, 219)</text>
+    <rect x='0' y="432" width="100%" height="48" fill="rgb(150, 155, 159)"></rect>
+  <text
+    x="16"
+    y="456"
+    dominant-baseline="middle"
+  >Stalk 0: rgb(150, 155, 159)</text>
+    <rect x='0' y="480" width="100%" height="48" fill="rgb(187, 180, 185)"></rect>
+  <text
+    x="16"
+    y="504"
+    dominant-baseline="middle"
+  >Stalk 1: rgb(187, 180, 185)</text>
+    <rect x='0' y="528" width="100%" height="48" fill="rgb(216, 197, 201)"></rect>
+  <text
+    x="16"
+    y="552"
+    dominant-baseline="middle"
+  >Stalk 2: rgb(216, 197, 201)</text>
+</svg>
