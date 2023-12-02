@@ -1,4 +1,11 @@
-import { japaneseElegance, nord, oxford, revival, tokyoDawn } from "./swatches";
+import {
+  freeway,
+  japaneseElegance,
+  nord,
+  oxford,
+  revival,
+  tokyoDawn,
+} from "./swatches";
 
 export default {
   swatches: {
@@ -7,5 +14,6 @@ export default {
     tokyoDawn,
     revival,
     oxford,
+    freeway,
   },
 };

@@ -1,0 +1,49 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width='100%'
+  height="336px"
+  style="font:inherit">
+  <style>text {font: 400 14px sans-serif}</style>
+  <rect x='0' y="0" width="100%" height="48" fill="rgb(242, 242, 242)"></rect>
+  <text
+    x="16"
+    y="24"
+    dominant-baseline="middle"
+  >Concrete: rgb(242, 242, 242)</text>
+    <rect x='0' y="48" width="100%" height="48" fill="rgb(217, 217, 217)"></rect>
+  <text
+    x="16"
+    y="72"
+    dominant-baseline="middle"
+  >Alto: rgb(217, 217, 217)</text>
+    <rect x='0' y="96" width="100%" height="48" fill="rgb(191, 191, 191)"></rect>
+  <text
+    x="16"
+    y="120"
+    dominant-baseline="middle"
+  >Silver: rgb(191, 191, 191)</text>
+    <rect x='0' y="144" width="100%" height="48" fill="rgb(153, 153, 153)"></rect>
+  <text
+    x="16"
+    y="168"
+    dominant-baseline="middle"
+  >Dusty Gray: rgb(153, 153, 153)</text>
+    <rect x='0' y="192" width="100%" height="48" fill="rgb(102, 102, 102)"></rect>
+  <text
+    x="16"
+    y="216"
+    dominant-baseline="middle"
+  >Dove Gray: rgb(102, 102, 102)</text>
+    <rect x='0' y="240" width="100%" height="48" fill="rgb(255, 249, 192)"></rect>
+  <text
+    x="16"
+    y="264"
+    dominant-baseline="middle"
+  >Baker Yellow: rgb(255, 249, 192)</text>
+    <rect x='0' y="288" width="100%" height="48" fill="rgb(255, 213, 121)"></rect>
+  <text
+    x="16"
+    y="312"
+    dominant-baseline="middle"
+  >Dusk Orange: rgb(255, 213, 121)</text>
+</svg>
