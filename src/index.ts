@@ -1,4 +1,5 @@
 import {
+  classic,
   freeway,
   japaneseElegance,
   nord,
@@ -9,6 +10,7 @@ import {
 
 export default {
   swatches: {
+    classic,
     japaneseElegance,
     nord,
     tokyoDawn,
