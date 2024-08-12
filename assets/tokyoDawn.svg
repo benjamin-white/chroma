@@ -1,31 +1,43 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
   width='100%'
-  height="192px"
+  height="288px"
   style="font:inherit">
   <style>text {font: 400 14px sans-serif}</style>
-  <rect x='0' y="0" width="100%" height="48" fill="rgb(125, 126, 124)"></rect>
+  <rect x='0' y="0" width="100%" height="48" fill="rgb(60, 65, 93)"></rect>
   <text
     x="16"
     y="24"
     dominant-baseline="middle"
-  >Bitter: rgb(125, 126, 124)</text>
-    <rect x='0' y="48" width="100%" height="48" fill="rgb(145, 151, 149)"></rect>
+  >Oxford Blue: rgb(60, 65, 93)</text>
+    <rect x='0' y="48" width="100%" height="48" fill="rgb(125, 126, 124)"></rect>
   <text
     x="16"
     y="72"
     dominant-baseline="middle"
-  >Sea Moss: rgb(145, 151, 149)</text>
-    <rect x='0' y="96" width="100%" height="48" fill="rgb(234, 231, 220)"></rect>
+  >Bitter: rgb(125, 126, 124)</text>
+    <rect x='0' y="96" width="100%" height="48" fill="rgb(145, 151, 149)"></rect>
   <text
     x="16"
     y="120"
     dominant-baseline="middle"
-  >Satin Linen: rgb(234, 231, 220)</text>
-    <rect x='0' y="144" width="100%" height="48" fill="rgb(199, 180, 143)"></rect>
+  >Sea Moss: rgb(145, 151, 149)</text>
+    <rect x='0' y="144" width="100%" height="48" fill="rgb(234, 231, 220)"></rect>
   <text
     x="16"
     y="168"
     dominant-baseline="middle"
+  >Satin Linen: rgb(234, 231, 220)</text>
+    <rect x='0' y="192" width="100%" height="48" fill="rgb(199, 180, 143)"></rect>
+  <text
+    x="16"
+    y="216"
+    dominant-baseline="middle"
   >Indian Khaki: rgb(199, 180, 143)</text>
+    <rect x='0' y="240" width="100%" height="48" fill="rgb(184, 91, 76)"></rect>
+  <text
+    x="16"
+    y="264"
+    dominant-baseline="middle"
+  >Chestnut: rgb(184, 91, 76)</text>
 </svg>
