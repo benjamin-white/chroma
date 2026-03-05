@@ -3,10 +3,12 @@
     "strict": true,
     "module": "esnext",
     "moduleResolution": "node",
-    "target": "es2015",
+    "target": "es2017",
     "declaration": true,
-    "outDir": "./dist"
+    "outDir": "./dist",
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": false
   },
-  "include": ["src/index.ts"],
+  "include": ["lib/readme/index.ts"],
   "exclude": ["node_modules", "dist"]
 }

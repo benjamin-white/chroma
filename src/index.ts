@@ -6,6 +6,7 @@ import {
   oxford,
   revival,
   tokyoDawn,
+  terminal
 } from "./swatches";
 
 export default {
@@ -17,5 +18,6 @@ export default {
     revival,
     oxford,
     freeway,
+    terminal
   },
 };

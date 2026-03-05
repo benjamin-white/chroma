@@ -1,0 +1,109 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width='100%'
+  height="816px"
+  style="font:inherit">
+  <style>text {font: 400 14px sans-serif}</style>
+  <rect x='0' y="0" width="100%" height="48" fill="rgb(187, 187, 187)"></rect>
+  <text
+    x="16"
+    y="24"
+    dominant-baseline="middle"
+  >Zero: rgb(187, 187, 187)</text>
+    <rect x='0' y="48" width="100%" height="48" fill="rgb(110, 173, 182)"></rect>
+  <text
+    x="16"
+    y="72"
+    dominant-baseline="middle"
+  >Twelve: rgb(110, 173, 182)</text>
+    <rect x='0' y="96" width="100%" height="48" fill="rgb(85, 85, 85)"></rect>
+  <text
+    x="16"
+    y="120"
+    dominant-baseline="middle"
+  >Eight: rgb(85, 85, 85)</text>
+    <rect x='0' y="144" width="100%" height="48" fill="rgb(242, 150, 146)"></rect>
+  <text
+    x="16"
+    y="168"
+    dominant-baseline="middle"
+  >Nine: rgb(242, 150, 146)</text>
+    <rect x='0' y="192" width="100%" height="48" fill="rgb(231, 151, 231)"></rect>
+  <text
+    x="16"
+    y="216"
+    dominant-baseline="middle"
+  >Five: rgb(231, 151, 231)</text>
+    <rect x='0' y="240" width="100%" height="48" fill="rgb(121, 197, 177)"></rect>
+  <text
+    x="16"
+    y="264"
+    dominant-baseline="middle"
+  >Ten: rgb(121, 197, 177)</text>
+    <rect x='0' y="288" width="100%" height="48" fill="rgb(255, 254, 254)"></rect>
+  <text
+    x="16"
+    y="312"
+    dominant-baseline="middle"
+  >Fifteen: rgb(255, 254, 254)</text>
+    <rect x='0' y="336" width="100%" height="48" fill="rgb(203, 189, 189)"></rect>
+  <text
+    x="16"
+    y="360"
+    dominant-baseline="middle"
+  >Foreground: rgb(203, 189, 189)</text>
+    <rect x='0' y="384" width="100%" height="48" fill="rgb(255, 118, 255)"></rect>
+  <text
+    x="16"
+    y="408"
+    dominant-baseline="middle"
+  >Thirteen: rgb(255, 118, 255)</text>
+    <rect x='0' y="432" width="100%" height="48" fill="rgb(71, 63, 63)"></rect>
+  <text
+    x="16"
+    y="456"
+    dominant-baseline="middle"
+  >Background: rgb(71, 63, 63)</text>
+    <rect x='0' y="480" width="100%" height="48" fill="rgb(254, 251, 103)"></rect>
+  <text
+    x="16"
+    y="504"
+    dominant-baseline="middle"
+  >Eleven: rgb(254, 251, 103)</text>
+    <rect x='0' y="528" width="100%" height="48" fill="rgb(95, 253, 255)"></rect>
+  <text
+    x="16"
+    y="552"
+    dominant-baseline="middle"
+  >Fourteen: rgb(95, 253, 255)</text>
+    <rect x='0' y="576" width="100%" height="48" fill="rgb(220, 163, 163)"></rect>
+  <text
+    x="16"
+    y="600"
+    dominant-baseline="middle"
+  >One: rgb(220, 163, 163)</text>
+    <rect x='0' y="624" width="100%" height="48" fill="rgb(205, 178, 114)"></rect>
+  <text
+    x="16"
+    y="648"
+    dominant-baseline="middle"
+  >Two: rgb(205, 178, 114)</text>
+    <rect x='0' y="672" width="100%" height="48" fill="rgb(240, 223, 175)"></rect>
+  <text
+    x="16"
+    y="696"
+    dominant-baseline="middle"
+  >Three: rgb(240, 223, 175)</text>
+    <rect x='0' y="720" width="100%" height="48" fill="rgb(110, 173, 182)"></rect>
+  <text
+    x="16"
+    y="744"
+    dominant-baseline="middle"
+  >Four: rgb(110, 173, 182)</text>
+    <rect x='0' y="768" width="100%" height="48" fill="rgb(0, 197, 199)"></rect>
+  <text
+    x="16"
+    y="792"
+    dominant-baseline="middle"
+  >Six: rgb(0, 197, 199)</text>
+</svg>

@@ -5,3 +5,4 @@ export { default as tokyoDawn } from "./tokyo-dawn";
 export { default as revival } from "./revival";
 export { default as oxford } from "./oxford";
 export { default as freeway } from "./freeway";
+export { default as terminal } from "./terminal";
